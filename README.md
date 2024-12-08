@@ -12,3 +12,9 @@ Les fonctionnalités sont:
 -Ajout-modification-suppression des assignments
 -Gestion des droits
 -Pagination des affichages
+
+utilisateur : Login: user1
+              Password: user1
+
+Administrateur : Login: admin1
+                 Password: admin1
